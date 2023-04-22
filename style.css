@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.top-menu{
+    width:1280px;
+
+    display: flex;
+    margin: 10px 50px;
+    justify-content: space-between;
+}
+
+
+
+li{
+    display: inline;
+    margin: 10px;
+    color: grey;
+    font-family: "Roboto";
+    font-size: small;
+}
+
+.right-menu{
+
+    margin-right: 50px;
+
+}
